@@ -23,4 +23,4 @@ MegaAlts is allowed to change product pricing in any time without any warnings.
 <br>
 <h2>Disclaimers</h2>
 <br>
-MegaAlts has no responsibility for lost or stolen Minecraft account's. We do not have any type of warrenty, and refunds will not be given in any circumstance. 
+Non-Full Access accounts is accounts with no other access than signing in with it. MegaAlts has no responsibility for lost or stolen Minecraft account's. We do not have any type of warrenty, and refunds will not be given in any circumstance. 
