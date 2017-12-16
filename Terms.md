@@ -23,7 +23,7 @@ MegaAlts is allowed to change product pricing in any time without any warnings.
 <br>
 <h2>Disclaimers</h2>
 <br>
-Non-Full Access accounts is accounts with no other access than signing in with it. MegaAlts has no responsibility for lost or stolen Minecraft account's. We do not have any type of warrenty, and refunds will not be given in any circumstance. 
+Non-Full Access accounts is accounts with no other access than signing in with it. A Full access Minecraft account that you can customise via the minecraft.net site, and login via the Minecraft Launcher to play. Full access is often refered as Semi-Full access. MegaAlts has no responsibility for lost or stolen Minecraft account's. We do not have any type of warrenty, and refunds will not be given in any circumstance. 
 <br>
 <br>
 <h2>General</h2>
