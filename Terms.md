@@ -1,7 +1,7 @@
 <h1 align="center">Terms of Service - MegaAlts</h1>
-Last updated: 16.12.2017
-<br>
-ease read these Terms of Service carefully before using our store or any of our services operated by MegaAlts.com or Selly.gg.
+<b>Last updated: 16.12.2017</b>
+<br><br>
+Please read these Terms of Service carefully before using our store or any of our services operated by MegaAlts.com or Selly.gg.
 <br>
 You must be able to agree to all of these terms and conditions within these terms of service.
 <br>
