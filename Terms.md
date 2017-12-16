@@ -16,6 +16,11 @@ The terms "we", "us" and "our" refers to MegaAlts.
 By using MegaAlts or one of its services you agree to be bound by these terms and conditions. If you disagree with any of these terms and conditions you may not access our service.
 <br>
 <br>
+<h2>Pricing</h2>
+<br>
+MegaAlts is allowed to change product pricing in any time without any warnings.
+<br>
+<br>
 <h2>Disclaimers</h2>
 <br>
-MegaAlts has no responsibility if anything happens with your Minecraft account. We do not have any type of warrenty or refunds.
+MegaAlts has no responsibility for lost or stolen Minecraft account's. We do not have any type of warrenty, and refunds will not be given in any circumstance. 
